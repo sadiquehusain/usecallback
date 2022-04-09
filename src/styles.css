@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form1 {
+  height: 480px;
+  width: 240px;
+  background-color: green;
+  padding: 50px;
+  align-items: center;
+  display: flex;
+}
